@@ -1,8 +1,8 @@
 # FOSS2020_reproducability
-# FOSS2020 reproducibility tutorial
-# connect to my atmosphere instance using ssh. The ip will probably change each time it connect. IP is copied from atmosphere instance page
+#FOSS2020 reproducibility tutorial
+#connect to my atmosphere instance using ssh. The ip will probably change each time it connect. IP is copied from atmosphere instance page
 ```ssh trippster08@/128.196.142.74```
-# move to /scratch, it has more space than other folders
+#move to /scratch, it has more space than other folders
 ```cd /scratch```
 # clone my github reproducability repository
 ```git clone https://github.com/trippster08/FOSS2020_reproducability.git```
